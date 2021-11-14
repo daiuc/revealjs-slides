@@ -1,0 +1,10 @@
+---
+title: "Home"
+author: "Chao Dai"
+date: "11/14/2021"
+output: html_document
+---
+
+Welcome to my slide. 
+
+[presentation](reveal.html)
